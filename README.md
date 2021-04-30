@@ -1,7 +1,7 @@
 # KerasPreprocessingBenchmark
-Benchmarks a defined preprocessing function against a model by training it for different environments and outputs an overall score.
 
-## Current environments:
-Mnist image classification and upscaling,
-Text classification for malicious urls,
-Crypto price prediction.
+A python/keras implementation to benchmark a predefined model and normalising function/s.
+
+In progress!
+
+![Diagram of processing 'layer' and model](diagram.png)
