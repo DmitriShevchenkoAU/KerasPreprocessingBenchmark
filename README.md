@@ -3,5 +3,5 @@ Benchmarks a defined preprocessing function against a model by training it for d
 
 ## Current environments:
 Mnist image classification and upscaling,
-Text classification for malicius urls,
+Text classification for malicious urls,
 Crypto price prediction.
